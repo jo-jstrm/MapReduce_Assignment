@@ -1,2 +1,2 @@
 # MapReduce_Assignment
-Java Homework
+Datenbankpraktikum
